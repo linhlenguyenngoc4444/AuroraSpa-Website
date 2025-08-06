@@ -1,0 +1,850 @@
+[{
+  "_id": {
+    "$oid": "67da32333d4f5cbd18afc6ad"
+  },
+  "customerID": "",
+  "customerName": "ngoclinh",
+  "phone": "1248275855",
+  "orderTime": {
+    "$date": "2025-03-19T02:55:44.493Z"
+  },
+  "bookingDate": {
+    "$date": "2025-03-20T00:00:00.000Z"
+  },
+  "paymentMethod": "qr",
+  "total": 350000,
+  "status": "ordered",
+  "bookingItems": [
+    {
+      "product": {
+        "product": {
+          "_id": "67ce898ca504195187ee81de",
+          "productType": "67caff0983c2d7f120045343",
+          "creatorID": 123,
+          "productName": "Nail cupcake phong cách",
+          "price": 200000,
+          "description": "Bộ nail đỏ rực rỡ, điểm xuyết họa tiết nơ và cupcake ngọt ngào, thể hiện cá tính năng động, trẻ trung.",
+          "duration": 120,
+          "image": "https://i.imgur.com/ov7BWvn.png",
+          "new": true,
+          "rating": 5,
+          "feedback": [
+            {
+              "customerID": "67cb1e3283c2d7f12004538c",
+              "date": "2024-12-01T17:00:00.000Z",
+              "content": "Dịch vụ trên cả tuyệt vời, lúc đặt lịch cũng siêu tiện lợi",
+              "rating": 5
+            },
+            {
+              "customerID": "67cb1e3283c2d7f12004538c",
+              "date": "2025-12-02T17:00:00.000Z",
+              "content": "Không gian thoải mái, rộng rãi, sạch sẽ. Nhân viên nhiệt tình",
+              "rating": 5
+            },
+            {
+              "customerID": "67d3b907b4581e316ff90148",
+              "date": "2025-12-02T17:00:00.000Z",
+              "content": "Làm ở đây mấy lần rồi, lần nào cũng ok hết. ",
+              "rating": 5
+            }
+          ]
+        },
+        "selectedOptions": [
+          {
+            "value": "bau",
+            "name": "Bầu",
+            "addPrice": 0
+          },
+          {
+            "value": "thuong",
+            "name": "Thường",
+            "addPrice": 0
+          },
+          {
+            "value": "mongiga",
+            "name": "Móng giả",
+            "addPrice": 150000
+          }
+        ],
+        "quantity": 1,
+        "itemPrice": 350000
+      },
+      "selectedTime": "2025-03-19T04:00:00.729Z"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67da934ed3a35ec3ee539efb"
+  },
+  "customerID": "",
+  "customerName": "minh phuong",
+  "phone": "4885728385",
+  "orderTime": {
+    "$date": "2025-03-19T09:49:50.153Z"
+  },
+  "bookingDate": {
+    "$date": "2025-03-22T00:00:00.000Z"
+  },
+  "paymentMethod": "cash",
+  "total": 699000,
+  "status": "ordered",
+  "bookingItems": [
+    {
+      "product": {
+        "product": {
+          "_id": "67ce86e2a504195187ee81cf",
+          "productType": "67caff1e83c2d7f120045345",
+          "creatorID": 123,
+          "productName": "Gội dầu dưỡng sinh",
+          "price": 99000,
+          "description": "Gội đầu với thảo dược, kết hợp massage vai và gáy giúp giảm căng thẳng, thư giãn cơ thể",
+          "duration": 40,
+          "image": "https://i.imgur.com/TOMJHhE.png",
+          "new": false,
+          "rating": 5,
+          "feedback": [
+            {
+              "customerID": "67cb1e3283c2d7f12004538c",
+              "date": "2024-12-01T17:00:00.000Z",
+              "content": "Dịch vụ trên cả tuyệt vời, lúc đặt lịch cũng siêu tiện lợi",
+              "rating": 5
+            },
+            {
+              "customerID": "67cb1e3283c2d7f12004538c",
+              "date": "2025-12-02T17:00:00.000Z",
+              "content": "Không gian thoải mái, rộng rãi, sạch sẽ. Nhân viên nhiệt tình",
+              "rating": 5
+            },
+            {
+              "customerID": "67d3b8d5b4581e316ff9013e",
+              "date": "2025-12-02T17:00:00.000Z",
+              "content": "Làm ở đây mấy lần rồi, lần nào cũng ok hết. ",
+              "rating": 5
+            }
+          ]
+        },
+        "selectedOptions": [
+          {
+            "value": "thuong",
+            "name": "Thường",
+            "addPrice": 0
+          }
+        ],
+        "quantity": 1,
+        "itemPrice": 99000
+      },
+      "selectedTime": "2025-03-19T01:00:00.736Z"
+    },
+    {
+      "product": {
+        "product": {
+          "_id": "67ce8882a504195187ee81d9",
+          "productType": "67caff2d83c2d7f120045347",
+          "creatorID": 123,
+          "productName": "Wax bikini",
+          "price": 200000,
+          "description": "Loại bỏ lông vùng bikini an toàn, nhẹ nhàng, mang lại cảm giác thoải mái, tự tin.",
+          "duration": 30,
+          "image": "https://i.imgur.com/2ocA1Bn.png",
+          "new": false,
+          "rating": 5,
+          "feedback": [
+            {
+              "customerID": "67cb1e3283c2d7f12004538c",
+              "date": "2024-12-01T17:00:00.000Z",
+              "content": "Dịch vụ trên cả tuyệt vời, lúc đặt lịch cũng siêu tiện lợi",
+              "rating": 5
+            },
+            {
+              "customerID": "67cb1e3283c2d7f12004538c",
+              "date": "2025-12-02T17:00:00.000Z",
+              "content": "Không gian thoải mái, rộng rãi, sạch sẽ. Nhân viên nhiệt tình",
+              "rating": 5
+            },
+            {
+              "customerID": "67d3b8f3b4581e316ff90144",
+              "date": "2025-12-02T17:00:00.000Z",
+              "content": "Làm ở đây mấy lần rồi, lần nào cũng ok hết. ",
+              "rating": 5
+            }
+          ]
+        },
+        "selectedOptions": [
+          {
+            "value": "jaxwax",
+            "name": "Jaxwax",
+            "addPrice": 20000
+          }
+        ],
+        "quantity": 1,
+        "itemPrice": 220000
+      },
+      "selectedTime": "2025-03-19T09:00:00.736Z"
+    },
+    {
+      "product": {
+        "product": {
+          "_id": "67ce8930a504195187ee81db",
+          "productType": "67caff0983c2d7f120045343",
+          "creatorID": 123,
+          "productName": "Nail ánh tím dạ tiệc",
+          "price": 200000,
+          "description": "Bộ nail tím huyền ảo, điểm xuyết ánh nhũ lấp lánh, mang đến vẻ đẹp sang trọng, quý phái.",
+          "duration": 120,
+          "image": "https://i.imgur.com/wa2NBOG.png",
+          "new": false,
+          "rating": 5,
+          "feedback": [
+            {
+              "customerID": "67cb1e3283c2d7f12004538c",
+              "date": "2024-12-01T17:00:00.000Z",
+              "content": "Dịch vụ trên cả tuyệt vời, lúc đặt lịch cũng siêu tiện lợi",
+              "rating": 5
+            },
+            {
+              "customerID": "67cb1e3283c2d7f12004538c",
+              "date": "2025-12-02T17:00:00.000Z",
+              "content": "Không gian thoải mái, rộng rãi, sạch sẽ. Nhân viên nhiệt tình",
+              "rating": 5
+            },
+            {
+              "customerID": "67d3b8fdb4581e316ff90146",
+              "date": "2025-12-02T17:00:00.000Z",
+              "content": "Làm ở đây mấy lần rồi, lần nào cũng ok hết. ",
+              "rating": 5
+            }
+          ]
+        },
+        "selectedOptions": [
+          {
+            "value": "hanhnhan",
+            "name": "Hạnh nhân",
+            "addPrice": 0
+          },
+          {
+            "value": "gel",
+            "name": "Gel",
+            "addPrice": 30000
+          },
+          {
+            "value": "mongiga",
+            "name": "Móng giả",
+            "addPrice": 150000
+          }
+        ],
+        "quantity": 1,
+        "itemPrice": 380000
+      },
+      "selectedTime": "2025-03-19T06:00:00.736Z"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67dd02d544f627c4f103b0ef"
+  },
+  "customerID": "",
+  "customerName": "thu hien ",
+  "phone": "0938155984",
+  "orderTime": {
+    "$date": "2025-03-21T06:10:24.994Z"
+  },
+  "bookingDate": {
+    "$date": "2025-03-22T00:00:00.000Z"
+  },
+  "paymentMethod": "cash",
+  "total": 429000,
+  "status": "ordered",
+  "bookingItems": [
+    {
+      "product": {
+        "product": {
+          "_id": "67ce8930a504195187ee81db",
+          "productType": "67caff0983c2d7f120045343",
+          "creatorID": 123,
+          "productName": "Nail ánh tím dạ tiệc",
+          "price": 200000,
+          "description": "Bộ nail tím huyền ảo, điểm xuyết ánh nhũ lấp lánh, mang đến vẻ đẹp sang trọng, quý phái.",
+          "duration": 120,
+          "image": "https://i.imgur.com/wa2NBOG.png",
+          "new": false,
+          "rating": 5,
+          "feedback": [
+            {
+              "customerID": "67cb1e3283c2d7f12004538c",
+              "date": "2024-12-01T17:00:00.000Z",
+              "content": "Dịch vụ trên cả tuyệt vời, lúc đặt lịch cũng siêu tiện lợi",
+              "rating": 5
+            },
+            {
+              "customerID": "67cb1e3283c2d7f12004538c",
+              "date": "2025-12-02T17:00:00.000Z",
+              "content": "Không gian thoải mái, rộng rãi, sạch sẽ. Nhân viên nhiệt tình",
+              "rating": 5
+            },
+            {
+              "customerID": "67d3b8fdb4581e316ff90146",
+              "date": "2025-12-02T17:00:00.000Z",
+              "content": "Làm ở đây mấy lần rồi, lần nào cũng ok hết. ",
+              "rating": 5
+            }
+          ]
+        },
+        "selectedOptions": [
+          {
+            "value": "tron",
+            "name": "Tròn",
+            "addPrice": 0
+          },
+          {
+            "value": "gel",
+            "name": "Gel",
+            "addPrice": 30000
+          }
+        ],
+        "quantity": 1,
+        "itemPrice": 230000
+      },
+      "selectedTime": "2025-03-21T05:00:00.641Z"
+    },
+    {
+      "product": {
+        "product": {
+          "_id": "67ce869fa504195187ee81cd",
+          "productType": "67caff1e83c2d7f120045345",
+          "creatorID": 123,
+          "productName": "Gội đầu thư giãn",
+          "price": 49000,
+          "description": "Sử dụng các loại dầu gội thông dụng như Head & Shoulders, Sunsilk, ..., mang lại cảm giác sạch sẽ, thoải mái",
+          "duration": 30,
+          "image": "https://i.imgur.com/m9Sj9qQ.png",
+          "new": true,
+          "rating": 5,
+          "feedback": [
+            {
+              "customerID": "67cb1e3283c2d7f12004538c",
+              "date": "2024-12-01T17:00:00.000Z",
+              "content": "Dịch vụ trên cả tuyệt vời, lúc đặt lịch cũng siêu tiện lợi",
+              "rating": 5
+            },
+            {
+              "customerID": "67cb1e3283c2d7f12004538c",
+              "date": "2025-12-02T17:00:00.000Z",
+              "content": "Không gian thoải mái, rộng rãi, sạch sẽ. Nhân viên nhiệt tình",
+              "rating": 5
+            },
+            {
+              "customerID": "67d3b8cbb4581e316ff9013c",
+              "date": "2025-12-02T17:00:00.000Z",
+              "content": "Làm ở đây mấy lần rồi, lần nào cũng ok hết. ",
+              "rating": 5
+            }
+          ]
+        },
+        "selectedOptions": [
+          {
+            "value": "thuong",
+            "name": "Thường",
+            "addPrice": 0
+          }
+        ],
+        "quantity": 1,
+        "itemPrice": 49000
+      },
+      "selectedTime": "2025-03-21T04:30:00.641Z"
+    },
+    {
+      "product": {
+        "product": {
+          "_id": "67ce8847a504195187ee81d7",
+          "productType": "67caff2d83c2d7f120045347",
+          "creatorID": 123,
+          "productName": "Wax chân",
+          "price": 150000,
+          "description": "Tạm biệt lông chân rậm rạp, sở hữu đôi chân nuột nà, quyến rũ.",
+          "duration": 30,
+          "image": "https://i.imgur.com/o2wneZ7.png",
+          "new": false,
+          "rating": 5,
+          "feedback": [
+            {
+              "customerID": "67cb1e3283c2d7f12004538c",
+              "date": "2024-12-01T17:00:00.000Z",
+              "content": "Dịch vụ trên cả tuyệt vời, lúc đặt lịch cũng siêu tiện lợi",
+              "rating": 5
+            },
+            {
+              "customerID": "67cb1e3283c2d7f12004538c",
+              "date": "2025-12-02T17:00:00.000Z",
+              "content": "Không gian thoải mái, rộng rãi, sạch sẽ. Nhân viên nhiệt tình",
+              "rating": 5
+            },
+            {
+              "customerID": "67d3b8eeb4581e316ff90143",
+              "date": "2025-12-02T17:00:00.000Z",
+              "content": "Làm ở đây mấy lần rồi, lần nào cũng ok hết. ",
+              "rating": 5
+            }
+          ]
+        },
+        "selectedOptions": [
+          {
+            "value": "nowax",
+            "name": "Nowax",
+            "addPrice": 0
+          }
+        ],
+        "quantity": 1,
+        "itemPrice": 150000
+      },
+      "selectedTime": "2025-03-21T03:00:00.641Z"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67dd039f44f627c4f103b0f1"
+  },
+  "customerID": "",
+  "customerName": "xquynh ",
+  "phone": "0938155984",
+  "orderTime": {
+    "$date": "2025-03-21T06:10:24.994Z"
+  },
+  "bookingDate": {
+    "$date": "2025-03-22T00:00:00.000Z"
+  },
+  "paymentMethod": "cash",
+  "total": 429000,
+  "status": "ordered",
+  "bookingItems": [
+    {
+      "product": {
+        "product": {
+          "_id": "67ce8930a504195187ee81db",
+          "productType": "67caff0983c2d7f120045343",
+          "creatorID": 123,
+          "productName": "Nail ánh tím dạ tiệc",
+          "price": 200000,
+          "description": "Bộ nail tím huyền ảo, điểm xuyết ánh nhũ lấp lánh, mang đến vẻ đẹp sang trọng, quý phái.",
+          "duration": 120,
+          "image": "https://i.imgur.com/wa2NBOG.png",
+          "new": false,
+          "rating": 5,
+          "feedback": [
+            {
+              "customerID": "67cb1e3283c2d7f12004538c",
+              "date": "2024-12-01T17:00:00.000Z",
+              "content": "Dịch vụ trên cả tuyệt vời, lúc đặt lịch cũng siêu tiện lợi",
+              "rating": 5
+            },
+            {
+              "customerID": "67cb1e3283c2d7f12004538c",
+              "date": "2025-12-02T17:00:00.000Z",
+              "content": "Không gian thoải mái, rộng rãi, sạch sẽ. Nhân viên nhiệt tình",
+              "rating": 5
+            },
+            {
+              "customerID": "67d3b8fdb4581e316ff90146",
+              "date": "2025-12-02T17:00:00.000Z",
+              "content": "Làm ở đây mấy lần rồi, lần nào cũng ok hết. ",
+              "rating": 5
+            }
+          ]
+        },
+        "selectedOptions": [
+          {
+            "value": "tron",
+            "name": "Tròn",
+            "addPrice": 0
+          },
+          {
+            "value": "gel",
+            "name": "Gel",
+            "addPrice": 30000
+          }
+        ],
+        "quantity": 1,
+        "itemPrice": 230000
+      },
+      "selectedTime": "2025-03-21T05:00:00.641Z"
+    },
+    {
+      "product": {
+        "product": {
+          "_id": "67ce869fa504195187ee81cd",
+          "productType": "67caff1e83c2d7f120045345",
+          "creatorID": 123,
+          "productName": "Gội đầu thư giãn",
+          "price": 49000,
+          "description": "Sử dụng các loại dầu gội thông dụng như Head & Shoulders, Sunsilk, ..., mang lại cảm giác sạch sẽ, thoải mái",
+          "duration": 30,
+          "image": "https://i.imgur.com/m9Sj9qQ.png",
+          "new": true,
+          "rating": 5,
+          "feedback": [
+            {
+              "customerID": "67cb1e3283c2d7f12004538c",
+              "date": "2024-12-01T17:00:00.000Z",
+              "content": "Dịch vụ trên cả tuyệt vời, lúc đặt lịch cũng siêu tiện lợi",
+              "rating": 5
+            },
+            {
+              "customerID": "67cb1e3283c2d7f12004538c",
+              "date": "2025-12-02T17:00:00.000Z",
+              "content": "Không gian thoải mái, rộng rãi, sạch sẽ. Nhân viên nhiệt tình",
+              "rating": 5
+            },
+            {
+              "customerID": "67d3b8cbb4581e316ff9013c",
+              "date": "2025-12-02T17:00:00.000Z",
+              "content": "Làm ở đây mấy lần rồi, lần nào cũng ok hết. ",
+              "rating": 5
+            }
+          ]
+        },
+        "selectedOptions": [
+          {
+            "value": "thuong",
+            "name": "Thường",
+            "addPrice": 0
+          }
+        ],
+        "quantity": 1,
+        "itemPrice": 49000
+      },
+      "selectedTime": "2025-03-21T04:30:00.641Z"
+    },
+    {
+      "product": {
+        "product": {
+          "_id": "67ce8847a504195187ee81d7",
+          "productType": "67caff2d83c2d7f120045347",
+          "creatorID": 123,
+          "productName": "Wax chân",
+          "price": 150000,
+          "description": "Tạm biệt lông chân rậm rạp, sở hữu đôi chân nuột nà, quyến rũ.",
+          "duration": 30,
+          "image": "https://i.imgur.com/o2wneZ7.png",
+          "new": false,
+          "rating": 5,
+          "feedback": [
+            {
+              "customerID": "67cb1e3283c2d7f12004538c",
+              "date": "2024-12-01T17:00:00.000Z",
+              "content": "Dịch vụ trên cả tuyệt vời, lúc đặt lịch cũng siêu tiện lợi",
+              "rating": 5
+            },
+            {
+              "customerID": "67cb1e3283c2d7f12004538c",
+              "date": "2025-12-02T17:00:00.000Z",
+              "content": "Không gian thoải mái, rộng rãi, sạch sẽ. Nhân viên nhiệt tình",
+              "rating": 5
+            },
+            {
+              "customerID": "67d3b8eeb4581e316ff90143",
+              "date": "2025-12-02T17:00:00.000Z",
+              "content": "Làm ở đây mấy lần rồi, lần nào cũng ok hết. ",
+              "rating": 5
+            }
+          ]
+        },
+        "selectedOptions": [
+          {
+            "value": "nowax",
+            "name": "Nowax",
+            "addPrice": 0
+          }
+        ],
+        "quantity": 1,
+        "itemPrice": 150000
+      },
+      "selectedTime": "2025-03-21T03:00:00.641Z"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67dd45b644f627c4f103b150"
+  },
+  "customerID": "",
+  "customerName": "NGUYEN THI VAN",
+  "phone": "0948971177",
+  "orderTime": {
+    "$date": "2025-03-21T10:55:42.140Z"
+  },
+  "bookingDate": {
+    "$date": "2025-03-22T00:00:00.000Z"
+  },
+  "paymentMethod": "cash",
+  "total": 330000,
+  "status": "ordered",
+  "bookingItems": [
+    {
+      "product": {
+        "product": {
+          "_id": "67ce8930a504195187ee81db",
+          "productType": "67caff0983c2d7f120045343",
+          "creatorID": 123,
+          "productName": "Nail ánh tím dạ tiệc",
+          "price": 200000,
+          "description": "Bộ nail tím huyền ảo, điểm xuyết ánh nhũ lấp lánh, mang đến vẻ đẹp sang trọng, quý phái.",
+          "duration": 120,
+          "image": "https://i.imgur.com/wa2NBOG.png",
+          "new": false,
+          "rating": 5,
+          "feedback": [
+            {
+              "customerID": "67cb1e3283c2d7f12004538c",
+              "date": "2024-12-01T17:00:00.000Z",
+              "content": "Dịch vụ trên cả tuyệt vời, lúc đặt lịch cũng siêu tiện lợi",
+              "rating": 5
+            },
+            {
+              "customerID": "67cb1e3283c2d7f12004538c",
+              "date": "2025-12-02T17:00:00.000Z",
+              "content": "Không gian thoải mái, rộng rãi, sạch sẽ. Nhân viên nhiệt tình",
+              "rating": 5
+            },
+            {
+              "customerID": "67d3b8fdb4581e316ff90146",
+              "date": "2025-12-02T17:00:00.000Z",
+              "content": "Làm ở đây mấy lần rồi, lần nào cũng ok hết. ",
+              "rating": 5
+            }
+          ]
+        },
+        "selectedOptions": [
+          {
+            "value": "tron",
+            "name": "Tròn",
+            "addPrice": 0
+          },
+          {
+            "value": "gel",
+            "name": "Gel",
+            "addPrice": 30000
+          }
+        ],
+        "quantity": 1,
+        "itemPrice": 230000
+      },
+      "selectedTime": "2025-03-21T01:00:00.763Z"
+    },
+    {
+      "product": {
+        "product": {
+          "_id": "67ce8819a504195187ee81d6",
+          "productType": "67caff2d83c2d7f120045347",
+          "creatorID": 123,
+          "productName": "Wax tay",
+          "price": 100000,
+          "description": "Loại bỏ lông tay tận gốc, mang lại làn da mịn màng, tự tin khoe cánh tay thon gọn.",
+          "duration": 30,
+          "image": "https://i.imgur.com/bcJpXKY.png",
+          "new": true,
+          "rating": 5,
+          "feedback": [
+            {
+              "customerID": "67cb1e3283c2d7f12004538c",
+              "date": "2024-12-01T17:00:00.000Z",
+              "content": "Dịch vụ trên cả tuyệt vời, lúc đặt lịch cũng siêu tiện lợi",
+              "rating": 5
+            },
+            {
+              "customerID": "67cb1e3283c2d7f12004538c",
+              "date": "2025-12-02T17:00:00.000Z",
+              "content": "Không gian thoải mái, rộng rãi, sạch sẽ. Nhân viên nhiệt tình",
+              "rating": 5
+            },
+            {
+              "customerID": "67d3b8e9b4581e316ff90142",
+              "date": "2025-12-02T17:00:00.000Z",
+              "content": "Làm ở đây mấy lần rồi, lần nào cũng ok hết. ",
+              "rating": 5
+            }
+          ]
+        },
+        "selectedOptions": [
+          {
+            "value": "nowax",
+            "name": "Nowax",
+            "addPrice": 0
+          }
+        ],
+        "quantity": 1,
+        "itemPrice": 100000
+      },
+      "selectedTime": "2025-03-21T05:30:00.763Z"
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67df8f4dee882a542c84ded1"
+  },
+  "customerID": "",
+  "customerName": "NGUYEN THI VAN",
+  "phone": "0948971177",
+  "orderTime": {
+    "$date": "2025-03-23T04:34:16.296Z"
+  },
+  "bookingDate": {
+    "$date": "2025-03-29T00:00:00.000Z"
+  },
+  "paymentMethod": "cash",
+  "total": 500000,
+  "status": "ordered",
+  "bookingItems": [
+    {
+      "product": {
+        "product": {
+          "_id": "67ce8847a504195187ee81d7",
+          "productType": "67caff2d83c2d7f120045347",
+          "creatorID": 123,
+          "productName": "Wax chân",
+          "price": 150000,
+          "description": "Tạm biệt lông chân rậm rạp, sở hữu đôi chân nuột nà, quyến rũ.",
+          "duration": 30,
+          "image": "https://i.imgur.com/o2wneZ7.png",
+          "new": false,
+          "rating": 5,
+          "feedback": [
+            {
+              "customerID": "67cb1e3283c2d7f12004538c",
+              "date": "2024-12-01T17:00:00.000Z",
+              "content": "Dịch vụ trên cả tuyệt vời, lúc đặt lịch cũng siêu tiện lợi",
+              "rating": 5
+            },
+            {
+              "customerID": "67cb1e3283c2d7f12004538c",
+              "date": "2025-12-02T17:00:00.000Z",
+              "content": "Không gian thoải mái, rộng rãi, sạch sẽ. Nhân viên nhiệt tình",
+              "rating": 5
+            },
+            {
+              "customerID": "67d3b8eeb4581e316ff90143",
+              "date": "2025-12-02T17:00:00.000Z",
+              "content": "Làm ở đây mấy lần rồi, lần nào cũng ok hết. ",
+              "rating": 5
+            }
+          ]
+        },
+        "selectedOptions": [
+          {
+            "value": "jaxwax",
+            "name": "Jaxwax",
+            "addPrice": 20000
+          }
+        ],
+        "quantity": 1,
+        "itemPrice": 170000
+      },
+      "selectedTime": "2025-03-23T01:00:00.719Z"
+    },
+    {
+      "product": {
+        "product": {
+          "_id": "67ce8930a504195187ee81db",
+          "productType": "67caff0983c2d7f120045343",
+          "creatorID": 123,
+          "productName": "Nail ánh tím dạ tiệc",
+          "price": 200000,
+          "description": "Bộ nail tím huyền ảo, điểm xuyết ánh nhũ lấp lánh, mang đến vẻ đẹp sang trọng, quý phái.",
+          "duration": 120,
+          "image": "https://i.imgur.com/wa2NBOG.png",
+          "new": false,
+          "rating": 5,
+          "feedback": [
+            {
+              "customerID": "67cb1e3283c2d7f12004538c",
+              "date": "2024-12-01T17:00:00.000Z",
+              "content": "Dịch vụ trên cả tuyệt vời, lúc đặt lịch cũng siêu tiện lợi",
+              "rating": 5
+            },
+            {
+              "customerID": "67cb1e3283c2d7f12004538c",
+              "date": "2025-12-02T17:00:00.000Z",
+              "content": "Không gian thoải mái, rộng rãi, sạch sẽ. Nhân viên nhiệt tình",
+              "rating": 5
+            },
+            {
+              "customerID": "67d3b8fdb4581e316ff90146",
+              "date": "2025-12-02T17:00:00.000Z",
+              "content": "Làm ở đây mấy lần rồi, lần nào cũng ok hết. ",
+              "rating": 5
+            }
+          ]
+        },
+        "selectedOptions": [
+          {
+            "value": "tron",
+            "name": "Tròn",
+            "addPrice": 0
+          },
+          {
+            "value": "gel",
+            "name": "Gel",
+            "addPrice": 30000
+          }
+        ],
+        "quantity": 1,
+        "itemPrice": 230000
+      },
+      "selectedTime": "2025-03-23T05:00:00.719Z"
+    },
+    {
+      "product": {
+        "product": {
+          "_id": "67ce8819a504195187ee81d6",
+          "productType": "67caff2d83c2d7f120045347",
+          "creatorID": 123,
+          "productName": "Wax tay",
+          "price": 100000,
+          "description": "Loại bỏ lông tay tận gốc, mang lại làn da mịn màng, tự tin khoe cánh tay thon gọn.",
+          "duration": 30,
+          "image": "https://i.imgur.com/bcJpXKY.png",
+          "new": true,
+          "rating": 5,
+          "feedback": [
+            {
+              "customerID": "67cb1e3283c2d7f12004538c",
+              "date": "2024-12-01T17:00:00.000Z",
+              "content": "Dịch vụ trên cả tuyệt vời, lúc đặt lịch cũng siêu tiện lợi",
+              "rating": 5
+            },
+            {
+              "customerID": "67cb1e3283c2d7f12004538c",
+              "date": "2025-12-02T17:00:00.000Z",
+              "content": "Không gian thoải mái, rộng rãi, sạch sẽ. Nhân viên nhiệt tình",
+              "rating": 5
+            },
+            {
+              "customerID": "67d3b8e9b4581e316ff90142",
+              "date": "2025-12-02T17:00:00.000Z",
+              "content": "Làm ở đây mấy lần rồi, lần nào cũng ok hết. ",
+              "rating": 5
+            }
+          ]
+        },
+        "selectedOptions": [
+          {
+            "value": "nowax",
+            "name": "Nowax",
+            "addPrice": 0
+          }
+        ],
+        "quantity": 1,
+        "itemPrice": 100000
+      },
+      "selectedTime": "2025-03-23T07:30:00.719Z"
+    }
+  ],
+  "__v": 0
+}]

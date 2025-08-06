@@ -1,0 +1,720 @@
+[{
+  "_id": {
+    "$oid": "67ce869fa504195187ee81cd"
+  },
+  "productType": {
+    "$oid": "67caff1e83c2d7f120045345"
+  },
+  "creatorID": 123,
+  "productName": "Gội đầu thư giãn",
+  "price": 49000,
+  "description": "Sử dụng các loại dầu gội thông dụng như Head & Shoulders, Sunsilk, ..., mang lại cảm giác sạch sẽ, thoải mái",
+  "duration": 30,
+  "image": "https://i.imgur.com/m9Sj9qQ.png",
+  "new": true,
+  "rating": 5,
+  "feedback": [
+    {
+      "customerID": {
+        "$oid": "67cb1e3283c2d7f12004538c"
+      },
+      "date": {
+        "$date": "2024-12-01T17:00:00.000Z"
+      },
+      "content": "Dịch vụ trên cả tuyệt vời, lúc đặt lịch cũng siêu tiện lợi",
+      "rating": 5
+    },
+    {
+      "customerID": {
+        "$oid": "67cb1e3283c2d7f12004538c"
+      },
+      "date": {
+        "$date": "2025-12-02T17:00:00.000Z"
+      },
+      "content": "Không gian thoải mái, rộng rãi, sạch sẽ. Nhân viên nhiệt tình",
+      "rating": 5
+    },
+    {
+      "customerID": {
+        "$oid": "67d3b8cbb4581e316ff9013c"
+      },
+      "date": {
+        "$date": "2025-12-02T17:00:00.000Z"
+      },
+      "content": "Làm ở đây mấy lần rồi, lần nào cũng ok hết. ",
+      "rating": 5
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ce86c5a504195187ee81ce"
+  },
+  "productType": {
+    "$oid": "67caff1e83c2d7f120045345"
+  },
+  "creatorID": 123,
+  "productName": "Gội thảo dược",
+  "price": 70000,
+  "description": "Gội đầu bằng thảo dược thiên nhiên, giúp làm sạch tóc, thư giãn và bảo vệ da đầu nhạy cảm.",
+  "duration": 30,
+  "image": "https://i.imgur.com/Tf65Lc2.png",
+  "new": false,
+  "rating": 5,
+  "feedback": [
+    {
+      "customerID": {
+        "$oid": "67cb1e3283c2d7f12004538c"
+      },
+      "date": {
+        "$date": "2024-12-01T17:00:00.000Z"
+      },
+      "content": "Dịch vụ trên cả tuyệt vời, lúc đặt lịch cũng siêu tiện lợi",
+      "rating": 5
+    },
+    {
+      "customerID": {
+        "$oid": "67cb1e3283c2d7f12004538c"
+      },
+      "date": {
+        "$date": "2025-12-02T17:00:00.000Z"
+      },
+      "content": "Không gian thoải mái, rộng rãi, sạch sẽ. Nhân viên nhiệt tình",
+      "rating": 5
+    },
+    {
+      "customerID": {
+        "$oid": "67d3b8d1b4581e316ff9013d"
+      },
+      "date": {
+        "$date": "2025-12-02T17:00:00.000Z"
+      },
+      "content": "Làm ở đây mấy lần rồi, lần nào cũng ok hết. ",
+      "rating": 5
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ce86e2a504195187ee81cf"
+  },
+  "productType": {
+    "$oid": "67caff1e83c2d7f120045345"
+  },
+  "creatorID": 123,
+  "productName": "Gội dầu dưỡng sinh",
+  "price": 99000,
+  "description": "Gội đầu với thảo dược, kết hợp massage vai và gáy giúp giảm căng thẳng, thư giãn cơ thể",
+  "duration": 40,
+  "image": "https://i.imgur.com/TOMJHhE.png",
+  "new": false,
+  "rating": 5,
+  "feedback": [
+    {
+      "customerID": {
+        "$oid": "67cb1e3283c2d7f12004538c"
+      },
+      "date": {
+        "$date": "2024-12-01T17:00:00.000Z"
+      },
+      "content": "Dịch vụ trên cả tuyệt vời, lúc đặt lịch cũng siêu tiện lợi",
+      "rating": 5
+    },
+    {
+      "customerID": {
+        "$oid": "67cb1e3283c2d7f12004538c"
+      },
+      "date": {
+        "$date": "2025-12-02T17:00:00.000Z"
+      },
+      "content": "Không gian thoải mái, rộng rãi, sạch sẽ. Nhân viên nhiệt tình",
+      "rating": 5
+    },
+    {
+      "customerID": {
+        "$oid": "67d3b8d5b4581e316ff9013e"
+      },
+      "date": {
+        "$date": "2025-12-02T17:00:00.000Z"
+      },
+      "content": "Làm ở đây mấy lần rồi, lần nào cũng ok hết. ",
+      "rating": 5
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ce8715a504195187ee81d0"
+  },
+  "productType": {
+    "$oid": "67caff1e83c2d7f120045345"
+  },
+  "creatorID": 123,
+  "productName": "Gội thảo mộc",
+  "price": 159000,
+  "description": "Liệu trình toàn diện kết hợp gội đầu bằng thảo mộc, massage đầu, cổ vai gáy và chăm sóc da mặt.",
+  "duration": 60,
+  "image": "https://i.imgur.com/pEqdVDt.png",
+  "new": false,
+  "rating": 5,
+  "feedback": [
+    {
+      "customerID": {
+        "$oid": "67cb1e3283c2d7f12004538c"
+      },
+      "date": {
+        "$date": "2024-12-01T17:00:00.000Z"
+      },
+      "content": "Dịch vụ trên cả tuyệt vời, lúc đặt lịch cũng siêu tiện lợi",
+      "rating": 5
+    },
+    {
+      "customerID": {
+        "$oid": "67cb1e3283c2d7f12004538c"
+      },
+      "date": {
+        "$date": "2025-12-02T17:00:00.000Z"
+      },
+      "content": "Không gian thoải mái, rộng rãi, sạch sẽ. Nhân viên nhiệt tình",
+      "rating": 5
+    },
+    {
+      "customerID": {
+        "$oid": "67d3b8d9b4581e316ff9013f"
+      },
+      "date": {
+        "$date": "2025-12-02T17:00:00.000Z"
+      },
+      "content": "Làm ở đây mấy lần rồi, lần nào cũng ok hết. ",
+      "rating": 5
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ce8732a504195187ee81d1"
+  },
+  "productType": {
+    "$oid": "67caff1e83c2d7f120045345"
+  },
+  "creatorID": 123,
+  "productName": "Gội chuyên sâu",
+  "price": 179000,
+  "description": "Liệu trình chuyên sâu với các bước chăm sóc từ đầu đến chân, sử dụng thảo dược cao cấp.",
+  "duration": 60,
+  "image": "https://i.imgur.com/wRCwtUB.png",
+  "new": true,
+  "rating": 5,
+  "feedback": [
+    {
+      "customerID": {
+        "$oid": "67cb1e3283c2d7f12004538c"
+      },
+      "date": {
+        "$date": "2024-12-01T17:00:00.000Z"
+      },
+      "content": "Dịch vụ trên cả tuyệt vời, lúc đặt lịch cũng siêu tiện lợi",
+      "rating": 5
+    },
+    {
+      "customerID": {
+        "$oid": "67cb1e3283c2d7f12004538c"
+      },
+      "date": {
+        "$date": "2025-12-02T17:00:00.000Z"
+      },
+      "content": "Không gian thoải mái, rộng rãi, sạch sẽ. Nhân viên nhiệt tình",
+      "rating": 5
+    },
+    {
+      "customerID": {
+        "$oid": "67d3b8deb4581e316ff90140"
+      },
+      "date": {
+        "$date": "2025-12-02T17:00:00.000Z"
+      },
+      "content": "Làm ở đây mấy lần rồi, lần nào cũng ok hết. ",
+      "rating": 5
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ce875da504195187ee81d2"
+  },
+  "productType": {
+    "$oid": "67caff1e83c2d7f120045345"
+  },
+  "creatorID": 123,
+  "productName": "Gội phục hồi tóc",
+  "price": 300000,
+  "description": "Liệu trình phục hồi tóc hư tổn, giúp tóc chắc khỏe và mềm mượt hơn.",
+  "duration": 60,
+  "image": "https://i.imgur.com/dQrhrEF.png",
+  "new": false,
+  "rating": 5,
+  "feedback": [
+    {
+      "customerID": {
+        "$oid": "67cb1e3283c2d7f12004538c"
+      },
+      "date": {
+        "$date": "2024-12-01T17:00:00.000Z"
+      },
+      "content": "Dịch vụ trên cả tuyệt vời, lúc đặt lịch cũng siêu tiện lợi",
+      "rating": 5
+    },
+    {
+      "customerID": {
+        "$oid": "67cb1e3283c2d7f12004538c"
+      },
+      "date": {
+        "$date": "2025-12-02T17:00:00.000Z"
+      },
+      "content": "Không gian thoải mái, rộng rãi, sạch sẽ. Nhân viên nhiệt tình",
+      "rating": 5
+    },
+    {
+      "customerID": {
+        "$oid": "67d3b8e4b4581e316ff90141"
+      },
+      "date": {
+        "$date": "2025-12-02T17:00:00.000Z"
+      },
+      "content": "Làm ở đây mấy lần rồi, lần nào cũng ok hết. ",
+      "rating": 5
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ce8819a504195187ee81d6"
+  },
+  "productType": {
+    "$oid": "67caff2d83c2d7f120045347"
+  },
+  "creatorID": 123,
+  "productName": "Wax tay",
+  "price": 100000,
+  "description": "Loại bỏ lông tay tận gốc, mang lại làn da mịn màng, tự tin khoe cánh tay thon gọn.",
+  "duration": 30,
+  "image": "https://i.imgur.com/bcJpXKY.png",
+  "new": true,
+  "rating": 5,
+  "feedback": [
+    {
+      "customerID": {
+        "$oid": "67cb1e3283c2d7f12004538c"
+      },
+      "date": {
+        "$date": "2024-12-01T17:00:00.000Z"
+      },
+      "content": "Dịch vụ trên cả tuyệt vời, lúc đặt lịch cũng siêu tiện lợi",
+      "rating": 5
+    },
+    {
+      "customerID": {
+        "$oid": "67cb1e3283c2d7f12004538c"
+      },
+      "date": {
+        "$date": "2025-12-02T17:00:00.000Z"
+      },
+      "content": "Không gian thoải mái, rộng rãi, sạch sẽ. Nhân viên nhiệt tình",
+      "rating": 5
+    },
+    {
+      "customerID": {
+        "$oid": "67d3b8e9b4581e316ff90142"
+      },
+      "date": {
+        "$date": "2025-12-02T17:00:00.000Z"
+      },
+      "content": "Làm ở đây mấy lần rồi, lần nào cũng ok hết. ",
+      "rating": 5
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ce8847a504195187ee81d7"
+  },
+  "productType": {
+    "$oid": "67caff2d83c2d7f120045347"
+  },
+  "creatorID": 123,
+  "productName": "Wax chân",
+  "price": 150000,
+  "description": "Tạm biệt lông chân rậm rạp, sở hữu đôi chân nuột nà, quyến rũ.",
+  "duration": 30,
+  "image": "https://i.imgur.com/o2wneZ7.png",
+  "new": false,
+  "rating": 5,
+  "feedback": [
+    {
+      "customerID": {
+        "$oid": "67cb1e3283c2d7f12004538c"
+      },
+      "date": {
+        "$date": "2024-12-01T17:00:00.000Z"
+      },
+      "content": "Dịch vụ trên cả tuyệt vời, lúc đặt lịch cũng siêu tiện lợi",
+      "rating": 5
+    },
+    {
+      "customerID": {
+        "$oid": "67cb1e3283c2d7f12004538c"
+      },
+      "date": {
+        "$date": "2025-12-02T17:00:00.000Z"
+      },
+      "content": "Không gian thoải mái, rộng rãi, sạch sẽ. Nhân viên nhiệt tình",
+      "rating": 5
+    },
+    {
+      "customerID": {
+        "$oid": "67d3b8eeb4581e316ff90143"
+      },
+      "date": {
+        "$date": "2025-12-02T17:00:00.000Z"
+      },
+      "content": "Làm ở đây mấy lần rồi, lần nào cũng ok hết. ",
+      "rating": 5
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ce8864a504195187ee81d8"
+  },
+  "productType": {
+    "$oid": "67caff2d83c2d7f120045347"
+  },
+  "creatorID": 123,
+  "productName": "Wax nách",
+  "price": 80000,
+  "description": "Cho vùng da dưới cánh tay sạch mịn, khô thoáng, tự tin diện trang phục yêu thích.",
+  "duration": 30,
+  "image": "https://i.imgur.com/KfRWBBw.png",
+  "new": false,
+  "rating": 5,
+  "feedback": [
+    {
+      "customerID": {
+        "$oid": "67d3b82fb4581e316ff90136"
+      },
+      "date": {
+        "$date": "2024-12-01T17:00:00.000Z"
+      },
+      "content": "Dịch vụ trên cả tuyệt vời, lúc đặt lịch cũng siêu tiện lợi",
+      "rating": 5
+    },
+    {
+      "customerID": {
+        "$oid": "67d3b856b4581e316ff90138"
+      },
+      "date": {
+        "$date": "2025-01-31T17:00:00.000Z"
+      },
+      "content": "Không gian thoải mái, rộng rãi, sạch sẽ. Nhân viên nhiệt tình",
+      "rating": 5
+    },
+    {
+      "customerID": {
+        "$oid": "67d3b8afb4581e316ff9013a"
+      },
+      "date": {
+        "$date": "2025-12-02T17:00:00.000Z"
+      },
+      "content": "Làm ở đây mấy lần rồi, lần nào cũng ok hết. ",
+      "rating": 5
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ce8882a504195187ee81d9"
+  },
+  "productType": {
+    "$oid": "67caff2d83c2d7f120045347"
+  },
+  "creatorID": 123,
+  "productName": "Wax bikini",
+  "price": 200000,
+  "description": "Loại bỏ lông vùng bikini an toàn, nhẹ nhàng, mang lại cảm giác thoải mái, tự tin.",
+  "duration": 30,
+  "image": "https://i.imgur.com/2ocA1Bn.png",
+  "new": false,
+  "rating": 5,
+  "feedback": [
+    {
+      "customerID": {
+        "$oid": "67cb1e3283c2d7f12004538c"
+      },
+      "date": {
+        "$date": "2024-12-01T17:00:00.000Z"
+      },
+      "content": "Dịch vụ trên cả tuyệt vời, lúc đặt lịch cũng siêu tiện lợi",
+      "rating": 5
+    },
+    {
+      "customerID": {
+        "$oid": "67cb1e3283c2d7f12004538c"
+      },
+      "date": {
+        "$date": "2025-12-02T17:00:00.000Z"
+      },
+      "content": "Không gian thoải mái, rộng rãi, sạch sẽ. Nhân viên nhiệt tình",
+      "rating": 5
+    },
+    {
+      "customerID": {
+        "$oid": "67d3b8f3b4581e316ff90144"
+      },
+      "date": {
+        "$date": "2025-12-02T17:00:00.000Z"
+      },
+      "content": "Làm ở đây mấy lần rồi, lần nào cũng ok hết. ",
+      "rating": 5
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ce88aea504195187ee81da"
+  },
+  "productType": {
+    "$oid": "67caff2d83c2d7f120045347"
+  },
+  "creatorID": 123,
+  "productName": "Wax toàn thân",
+  "price": 450000,
+  "description": "Sở hữu làn da toàn thân sạch mịn, không tì vết, tự tin tỏa sáng.",
+  "duration": 60,
+  "image": "https://i.imgur.com/oJIj9Sz.png",
+  "new": false,
+  "rating": 5,
+  "feedback": [
+    {
+      "customerID": {
+        "$oid": "67cb1e3283c2d7f12004538c"
+      },
+      "date": {
+        "$date": "2024-12-01T17:00:00.000Z"
+      },
+      "content": "Dịch vụ trên cả tuyệt vời, lúc đặt lịch cũng siêu tiện lợi",
+      "rating": 5
+    },
+    {
+      "customerID": {
+        "$oid": "67cb1e3283c2d7f12004538c"
+      },
+      "date": {
+        "$date": "2025-12-02T17:00:00.000Z"
+      },
+      "content": "Không gian thoải mái, rộng rãi, sạch sẽ. Nhân viên nhiệt tình",
+      "rating": 5
+    },
+    {
+      "customerID": {
+        "$oid": "67d3b8f7b4581e316ff90145"
+      },
+      "date": {
+        "$date": "2025-12-02T17:00:00.000Z"
+      },
+      "content": "Làm ở đây mấy lần rồi, lần nào cũng ok hết. ",
+      "rating": 5
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ce8930a504195187ee81db"
+  },
+  "productType": {
+    "$oid": "67caff0983c2d7f120045343"
+  },
+  "creatorID": 123,
+  "productName": "Nail ánh tím dạ tiệc",
+  "price": 200000,
+  "description": "Bộ nail tím huyền ảo, điểm xuyết ánh nhũ lấp lánh, mang đến vẻ đẹp sang trọng, quý phái.",
+  "duration": 120,
+  "image": "https://i.imgur.com/wa2NBOG.png",
+  "new": false,
+  "rating": 5,
+  "feedback": [
+    {
+      "customerID": {
+        "$oid": "67cb1e3283c2d7f12004538c"
+      },
+      "date": {
+        "$date": "2024-12-01T17:00:00.000Z"
+      },
+      "content": "Dịch vụ trên cả tuyệt vời, lúc đặt lịch cũng siêu tiện lợi",
+      "rating": 5
+    },
+    {
+      "customerID": {
+        "$oid": "67cb1e3283c2d7f12004538c"
+      },
+      "date": {
+        "$date": "2025-12-02T17:00:00.000Z"
+      },
+      "content": "Không gian thoải mái, rộng rãi, sạch sẽ. Nhân viên nhiệt tình",
+      "rating": 5
+    },
+    {
+      "customerID": {
+        "$oid": "67d3b8fdb4581e316ff90146"
+      },
+      "date": {
+        "$date": "2025-12-02T17:00:00.000Z"
+      },
+      "content": "Làm ở đây mấy lần rồi, lần nào cũng ok hết. ",
+      "rating": 5
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ce8949a504195187ee81dc"
+  },
+  "productType": {
+    "$oid": "67caff0983c2d7f120045343"
+  },
+  "creatorID": 123,
+  "productName": "Nail hồng lấp lánh đáng yêu",
+  "price": 200000,
+  "description": "Bộ nail hồng phấn dịu dàng, nữ tính, mang đến vẻ đẹp ngọt ngào, quyến rũ.",
+  "duration": 120,
+  "image": "https://i.imgur.com/IRDGx02.png",
+  "new": false,
+  "rating": 5,
+  "feedback": [
+    {
+      "customerID": {
+        "$oid": "67d3b837b4581e316ff90137"
+      },
+      "date": {
+        "$date": "2024-12-01T17:00:00.000Z"
+      },
+      "content": "Dịch vụ trên cả tuyệt vời, lúc đặt lịch cũng siêu tiện lợi",
+      "rating": 5
+    },
+    {
+      "customerID": {
+        "$oid": "67d3b88fb4581e316ff90139"
+      },
+      "date": {
+        "$date": "2025-12-02T17:00:00.000Z"
+      },
+      "content": "Không gian thoải mái, rộng rãi, sạch sẽ. Nhân viên nhiệt tình",
+      "rating": 5
+    },
+    {
+      "customerID": {
+        "$oid": "67d3b8c3b4581e316ff9013b"
+      },
+      "date": {
+        "$date": "2025-12-02T17:00:00.000Z"
+      },
+      "content": "Làm ở đây mấy lần rồi, lần nào cũng ok hết. ",
+      "rating": 5
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ce8970a504195187ee81dd"
+  },
+  "productType": {
+    "$oid": "67caff0983c2d7f120045343"
+  },
+  "creatorID": 123,
+  "productName": "Nail nhũ ánh kim và xanh ngọc",
+  "price": 200000,
+  "description": "Bộ nail xanh pastel kết hợp trắng tinh khôi, tạo nên vẻ đẹp thanh lịch, dịu dàng.",
+  "duration": 120,
+  "image": "https://i.imgur.com/IPFczJV.png",
+  "new": false,
+  "rating": 5,
+  "feedback": [
+    {
+      "customerID": {
+        "$oid": "67cb1e3283c2d7f12004538c"
+      },
+      "date": {
+        "$date": "2024-12-01T17:00:00.000Z"
+      },
+      "content": "Dịch vụ trên cả tuyệt vời, lúc đặt lịch cũng siêu tiện lợi",
+      "rating": 5
+    },
+    {
+      "customerID": {
+        "$oid": "67cb1e3283c2d7f12004538c"
+      },
+      "date": {
+        "$date": "2025-12-02T17:00:00.000Z"
+      },
+      "content": "Không gian thoải mái, rộng rãi, sạch sẽ. Nhân viên nhiệt tình",
+      "rating": 5
+    },
+    {
+      "customerID": {
+        "$oid": "67d3b902b4581e316ff90147"
+      },
+      "date": {
+        "$date": "2025-12-02T17:00:00.000Z"
+      },
+      "content": "Làm ở đây mấy lần rồi, lần nào cũng ok hết. ",
+      "rating": 5
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67ce898ca504195187ee81de"
+  },
+  "productType": {
+    "$oid": "67caff0983c2d7f120045343"
+  },
+  "creatorID": 123,
+  "productName": "Nail cupcake phong cách",
+  "price": 200000,
+  "description": "Bộ nail đỏ rực rỡ, điểm xuyết họa tiết nơ và cupcake ngọt ngào, thể hiện cá tính năng động, trẻ trung.",
+  "duration": 120,
+  "image": "https://i.imgur.com/ov7BWvn.png",
+  "new": true,
+  "rating": 5,
+  "feedback": [
+    {
+      "customerID": {
+        "$oid": "67cb1e3283c2d7f12004538c"
+      },
+      "date": {
+        "$date": "2024-12-01T17:00:00.000Z"
+      },
+      "content": "Dịch vụ trên cả tuyệt vời, lúc đặt lịch cũng siêu tiện lợi",
+      "rating": 5
+    },
+    {
+      "customerID": {
+        "$oid": "67cb1e3283c2d7f12004538c"
+      },
+      "date": {
+        "$date": "2025-12-02T17:00:00.000Z"
+      },
+      "content": "Không gian thoải mái, rộng rãi, sạch sẽ. Nhân viên nhiệt tình",
+      "rating": 5
+    },
+    {
+      "customerID": {
+        "$oid": "67d3b907b4581e316ff90148"
+      },
+      "date": {
+        "$date": "2025-12-02T17:00:00.000Z"
+      },
+      "content": "Làm ở đây mấy lần rồi, lần nào cũng ok hết. ",
+      "rating": 5
+    }
+  ]
+}]

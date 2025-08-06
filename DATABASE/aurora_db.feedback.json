@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "67d391b2b4581e316ff9010a"
+  },
+  "productID": {
+    "$oid": "67caff1e83c2d7f120045345"
+  },
+  "customerID": {
+    "$oid": "67cb1e3283c2d7f12004538c"
+  },
+  "content": "Rất tốt, dịch vụ tuyệt vời, nhân viên thân thiện, take care nhiệt tình",
+  "rating": 5,
+  "date": {
+    "$date": "2025-03-12T17:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67d39223b4581e316ff90114"
+  },
+  "productID": {
+    "$oid": "67caff1e83c2d7f120045345"
+  },
+  "customerID": {
+    "$oid": "67cb1e3283c2d7f12004538c"
+  },
+  "content": "Trên cả tuyệt vời, nail làm rất đẹp",
+  "rating": 5,
+  "date": {
+    "$date": "2025-03-10T17:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67d39237b4581e316ff90115"
+  },
+  "productID": {
+    "$oid": "67caff1e83c2d7f120045345"
+  },
+  "customerID": {
+    "$oid": "67cb1e3283c2d7f12004538c"
+  },
+  "content": "Gội đầu siêu thư giãn, sẽ dẫn bạn bè đến",
+  "rating": 5,
+  "date": {
+    "$date": "2025-03-10T17:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67d39256b4581e316ff90116"
+  },
+  "productID": {
+    "$oid": "67caff1e83c2d7f120045345"
+  },
+  "customerID": {
+    "$oid": "67cb1e3283c2d7f12004538c"
+  },
+  "content": "Wax xịn, không đau gì luôn. Nói chung là vượt ngoài mong đợi",
+  "rating": 5,
+  "date": {
+    "$date": "2025-03-10T17:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67d39279b4581e316ff90117"
+  },
+  "productID": {
+    "$oid": "67caff1e83c2d7f120045345"
+  },
+  "customerID": {
+    "$oid": "67cb1e3283c2d7f12004538c"
+  },
+  "content": "Đặt lịch siêu nhanh siêu xịn, tiện lợi vô cùng",
+  "rating": 5,
+  "date": {
+    "$date": "2025-03-10T17:00:00.000Z"
+  }
+}]

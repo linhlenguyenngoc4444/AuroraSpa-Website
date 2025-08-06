@@ -1,0 +1,204 @@
+[{
+  "_id": {
+    "$oid": "67cb160883c2d7f12004537d"
+  },
+  "name": "Dáng móng",
+  "required": true,
+  "options": [
+    {
+      "value": "vuong",
+      "name": "Vuông",
+      "addPrice": 0
+    },
+    {
+      "value": "bau",
+      "name": "Bầu",
+      "addPrice": 0
+    },
+    {
+      "value": "tron",
+      "name": "Tròn",
+      "addPrice": 0
+    },
+    {
+      "value": "ballet",
+      "name": "Ballet",
+      "addPrice": 0
+    },
+    {
+      "value": "hanhnhan",
+      "name": "Hạnh nhân",
+      "addPrice": 0
+    },
+    {
+      "value": "dinhnui",
+      "name": "Đỉnh núi",
+      "addPrice": 0
+    },
+    {
+      "value": "vuongbau",
+      "name": "Vuông bầu",
+      "addPrice": 0
+    }
+  ],
+  "optionType": "radio",
+  "productTypeId": {
+    "$oid": "67caff0983c2d7f120045343"
+  },
+  "groupname": "dang-mong"
+},
+{
+  "_id": {
+    "$oid": "67cb18bc83c2d7f120045381"
+  },
+  "name": "Loại sơn",
+  "required": true,
+  "options": [
+    {
+      "value": "gel",
+      "name": "Gel",
+      "addPrice": 30000
+    },
+    {
+      "value": "thuong",
+      "name": "Thường",
+      "addPrice": 0
+    }
+  ],
+  "optionType": "radio",
+  "productTypeId": {
+    "$oid": "67caff0983c2d7f120045343"
+  },
+  "groupname": "loai-son"
+},
+{
+  "_id": {
+    "$oid": "67cb190a83c2d7f120045382"
+  },
+  "name": "Làm dài móng",
+  "required": false,
+  "options": [
+    {
+      "value": "bot",
+      "name": "Đắp bột",
+      "addPrice": 180000
+    },
+    {
+      "value": "mongiga",
+      "name": "Móng giả",
+      "addPrice": 150000
+    }
+  ],
+  "optionType": "radio",
+  "productTypeId": {
+    "$oid": "67caff0983c2d7f120045343"
+  },
+  "groupname": "dang-mong"
+},
+{
+  "_id": {
+    "$oid": "67cb198e83c2d7f120045383"
+  },
+  "name": "Loại wax",
+  "required": true,
+  "options": [
+    {
+      "value": "nowax",
+      "name": "Nowax",
+      "addPrice": 0
+    },
+    {
+      "value": "jaxwax",
+      "name": "Jaxwax",
+      "addPrice": 20000
+    }
+  ],
+  "optionType": "radio",
+  "productTypeId": {
+    "$oid": "67caff2d83c2d7f120045347"
+  },
+  "groupname": "loai-wax"
+},
+{
+  "_id": {
+    "$oid": "67cb1a1383c2d7f120045386"
+  },
+  "name": "Loại da đầu",
+  "required": true,
+  "options": [
+    {
+      "value": "thuong",
+      "name": "Thường",
+      "addPrice": 0
+    },
+    {
+      "value": "kho",
+      "name": "Khô",
+      "addPrice": 0
+    },
+    {
+      "value": "nhon",
+      "name": "Nhờn",
+      "addPrice": 0
+    },
+    {
+      "value": "honhop",
+      "name": "Hỗn hợp",
+      "addPrice": 0
+    }
+  ],
+  "optionType": "radio",
+  "productTypeId": {
+    "$oid": "67caff1e83c2d7f120045345"
+  },
+  "groupname": "loai-da-dau"
+},
+{
+  "_id": {
+    "$oid": "67cb1aec83c2d7f120045389"
+  },
+  "name": "Dịch vụ thêm",
+  "required": false,
+  "options": [
+    {
+      "value": "collagen",
+      "name": "Hấp tóc collagen",
+      "addPrice": 200000
+    },
+    {
+      "value": "mask",
+      "name": "Đắp mặt nạ",
+      "addPrice": 50000
+    },
+    {
+      "value": "massage",
+      "name": "Massage mặt",
+      "addPrice": 40000
+    },
+    {
+      "value": "taytbc",
+      "name": "Tẩy tế bào chết",
+      "addPrice": 30000
+    },
+    {
+      "value": "cao",
+      "name": "Cao lông mặt, lông mày",
+      "addPrice": 30000
+    },
+    {
+      "value": "munmui",
+      "name": "Lột mụn mũi",
+      "addPrice": 30000
+    },
+    {
+      "value": "ruamat",
+      "name": "Rửa mặt",
+      "addPrice": 20000
+    }
+  ],
+  "optionType": "checkbox",
+  "productTypeId": {
+    "$oid": "67caff1e83c2d7f120045345"
+  },
+  "groupname": "dich-vu-them"
+}]

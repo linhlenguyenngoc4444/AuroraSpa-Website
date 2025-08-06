@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "67dd392744f627c4f103b12e"
+  },
+  "name": "Lê Nguyễn Ngọc Linh",
+  "account": "0938815376",
+  "password": "123456789",
+  "gender": "1",
+  "dob": "2004-04-24",
+  "avatar": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67dd395a44f627c4f103b131"
+  },
+  "name": "Nguyễn Thị Thu Hiền",
+  "account": "0857787279",
+  "password": "123456789",
+  "gender": "1",
+  "dob": "2004-09-22",
+  "avatar": null,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67dd398544f627c4f103b134"
+  },
+  "name": "Lương Thị Minh Phượng",
+  "account": "0901880352",
+  "password": "123456789",
+  "gender": "1",
+  "dob": "2004-05-01",
+  "avatar": null,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67dd39a944f627c4f103b137"
+  },
+  "name": "Đào Nguyễn Xuân Quỳnh",
+  "account": "0938155984",
+  "password": "123456789",
+  "gender": "1",
+  "dob": "2004-05-06",
+  "avatar": null,
+  "__v": 0
+}]
