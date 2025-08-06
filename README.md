@@ -1,59 +1,44 @@
-# MyApp
+# AuroraSpa Website
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.1.8.
+The **AuroraSpa Website** was developed to provide an online platform for customers to book beauty services, including nail, hair washing, and waxing.
 
-## Development server
+## Project Overview
 
-To start a local development server, run:
+This project involved a comprehensive system analysis and design process, focusing on the core functionalities and business processes. The analysis phase utilized standard modeling tools:
 
-```bash
-ng serve
-```
+- **DFD** (Data Flow Diagram)  
+- **BPMN** (Business Process Model and Notation)  
+- **UCD** (Use Case Diagram)
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+## Key Features
 
-## Code scaffolding
+The website is designed with a modern, user-friendly interface that ensures a fully responsive experience across various devices, from laptops to mobile phones.
 
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
+In addition to standard features such as browsing services and booking appointments, the website also introduces several innovative functionalities:
 
-```bash
-ng generate component component-name
-```
+- Customize services based on personal preferences  
+- Create and try out virtual nail designs  
+- Receive optimized booking time suggestions  
+- Easily cancel or reschedule appointments
 
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
+## Files Navigation
 
-```bash
-ng generate --help
-```
+- **Business Processes Description**  
+  Available in the `BÁO CÁO` file – Page 28
 
-## Building
+- **BPMN Diagrams**  
+  Located in the `BPMN` folder
 
-To build the project run:
+- **Use Case Diagrams**  
+  Located in the `UCD` folder
 
-```bash
-ng build
-```
+- **Use Case Description**  
+  Available in the `BÁO CÁO` file – Page 80
 
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
+- **DFD Diagrams**  
+  Located in the `DFD` folder
 
-## Running unit tests
-
-To execute unit tests with the [Karma](https://karma-runner.github.io) test runner, use the following command:
-
-```bash
-ng test
-```
-
-## Running end-to-end tests
-
-For end-to-end (e2e) testing, run:
-
-```bash
-ng e2e
-```
-
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
-
-## Additional Resources
-
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+- **Prototype Design (Figma)**  
+  Viewable at:  
+  [https://www.figma.com/design/HAJ4Sjzip7PIZhNjuS5xdq/Aurora-Spa?node-id=0-1&t=5cRHHUqVCdsjK0T3-1](https://www.figma.com/design/HAJ4Sjzip7PIZhNjuS5xdq/Aurora-Spa?node-id=0-1&t=5cRHHUqVCdsjK0T3-1)  
+  *(Go to the "WEBSITE" page to view the official interface design)*
